@@ -5,7 +5,7 @@ Collection of tools that are used in the facilities
 ## General tools
 
 - [Scout][scout] is a decision support tool that are designed to be used on a collaborative environment with multiple institutions
-- [loqusdb][loqus]is used to track local variant observations for any kind of vcf variants, published [here][loqus-publication]
+- [loqusdb][loqus] is used to track local variant observations for any kind of vcf variants, published [here][loqus-publication]
 
 ## Rare Disease Specific Tools
 
